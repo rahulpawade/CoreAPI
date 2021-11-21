@@ -1,0 +1,14 @@
+*.dll
+*.exe
+*.log
+*.vs
+\bin
+\obj
+\out
+\build
+\packages
+\Logs
+*.user
+*.msi
+.svn
+.DotSettings
